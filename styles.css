@@ -22,8 +22,8 @@ body {
 }
 
 .qr-code-container {
-    width: 300px;
-    height: 500px;
+    width: 310px;
+    height: 480px;
     background-color: var(--clr-white);
     text-align: center;
     align-items: center;
@@ -36,13 +36,13 @@ body {
 
 .image-container img {
     width: 100%;
-    border-radius: 20px;
+    border-radius: 22px;
     padding: 12px;
 }
 
 .text-container {
-    margin-top: 20px;
     text-align: center;
+    justify-content: space-around;
 }
 
 .text-container h1 {
